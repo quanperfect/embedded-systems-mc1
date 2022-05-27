@@ -1,0 +1,40 @@
+Signature: 4550 
+Amount of sections: 6 
+Entry point address: 00093944 
+
+{
+	Virtual size: 92204
+	Raw size: 92672
+	Virtual address: 4096
+	Raw address: 1024
+}
+{
+	Virtual size: 35990
+	Raw size: 36352
+	Virtual address: 98304
+	Raw address: 93696
+}
+{
+	Virtual size: 9800
+	Raw size: 1536
+	Virtual address: 135168
+	Raw address: 130048
+}
+{
+	Virtual size: 5532
+	Raw size: 5632
+	Virtual address: 147456
+	Raw address: 131584
+}
+{
+	Virtual size: 673856
+	Raw size: 674304
+	Virtual address: 155648
+	Raw address: 137216
+}
+{
+	Virtual size: 136
+	Raw size: 512
+	Virtual address: 831488
+	Raw address: 811520
+}
